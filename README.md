@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello World!
+🎓 I'm currently study at FPT University 🎓
+📃 Main language is Java 📃
+👩🏻‍💻Still a newbie but I alway willing to help!👩🏻‍💻
+
 
 <!--
 **GoldenBoy96/GoldenBoy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
