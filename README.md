@@ -1,6 +1,9 @@
-Hello World!\n
+Hello World!
+
 🎓 I'm currently study at FPT University 🎓
+
 📃 Main language is Java 📃
+
 👩🏻‍💻Still a newbie but I alway willing to help!👩🏻‍💻
 
 
