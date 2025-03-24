@@ -1,6 +1,5 @@
 Hello World!
 
-🎓 I'm currently studying at FPT University 🎓
 
 
 
